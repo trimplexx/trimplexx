@@ -16,6 +16,7 @@ I believe that continuous learning is the key to success in the rapidly changing
 - WinForms, WPF,
 - Azure Platform (Database, Functions, Blob Storage),
 - ASP.NET (WebAPI, MVC).
+- Unity 
 
 ### 🧠 Technologies learned during the course of studies:
 - React.js,
