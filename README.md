@@ -7,9 +7,6 @@ My passion for learning doesn't end in the lecture hall. In my free time, I enjo
 
 I believe that continuous learning is the key to success in the rapidly changing world of technology. 🤗
 
-## 📋 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trimplexx&show_icons=true&theme=tokyonight)
-
 ## 💎 Technologies I've Learned
 ### 💻 .NET the most frequently used platform in my projects:
 - C/C++, C#,
