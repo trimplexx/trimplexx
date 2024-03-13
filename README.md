@@ -22,6 +22,3 @@ I believe that continuous learning is the key to success in the rapidly changing
 - HTML, CSS.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trimplexx&theme=tokyonight)
-
-![SmashinKnowledgeSmashingKnowledgeGIF](https://github.com/trimplexx/trimplexx/assets/101646747/b6e6a492-9074-4125-9750-5c0f9fb01e94)
-
